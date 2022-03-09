@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/USB-II_STARTER_KIT/production/final_project.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>531968</length>                 
+      <used>56524</used>                     
+      <free>475444</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>30501</used>                     
+      <free>100571</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

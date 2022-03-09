@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Masters19024">
+            <file>file:/C:/E/Dev/FreeRTOS/WorkingCopy/FreeRTOS/Demo/PIC32MX_MPLAB/serial/serial.c</file>
+            <file>file:/C:/E/Dev/FreeRTOS/WorkingCopy/FreeRTOS/Demo/PIC32MX_MPLAB/lcd.c</file>
+            <file>file:/C:/E/Dev/FreeRTOS/WorkingCopy/FreeRTOS/Demo/PIC32MX_MPLAB/main_full.c</file>
+        </group>
+        <group>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Demo/final_project/main_final_project.c</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Source/tasks.c</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Demo/final_project/main.c</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Demo/UART/main.c</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Demo/UART/uart.c</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Demo/final_project/FreeRTOSConfig.h</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Source/include/FreeRTOS.h</file>
+            <file>file:/home/saudade/Desktop/FreeRTOSv202111.00/FreeRTOS/Demo/final_project/TMAN.h</file>
+        </group>
+    </open-files>
+</project-private>
